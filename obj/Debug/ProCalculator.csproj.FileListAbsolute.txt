@@ -1,0 +1,7 @@
+C:\Users\ohgue\OneDrive\Desktop\C# Beginners Course\1st Week\ProCalculator\bin\Debug\ProCalculator.exe.config
+C:\Users\ohgue\OneDrive\Desktop\C# Beginners Course\1st Week\ProCalculator\bin\Debug\ProCalculator.exe
+C:\Users\ohgue\OneDrive\Desktop\C# Beginners Course\1st Week\ProCalculator\bin\Debug\ProCalculator.pdb
+C:\Users\ohgue\OneDrive\Desktop\C# Beginners Course\1st Week\ProCalculator\obj\Debug\ProCalculator.csproj.AssemblyReference.cache
+C:\Users\ohgue\OneDrive\Desktop\C# Beginners Course\1st Week\ProCalculator\obj\Debug\ProCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ohgue\OneDrive\Desktop\C# Beginners Course\1st Week\ProCalculator\obj\Debug\ProCalculator.exe
+C:\Users\ohgue\OneDrive\Desktop\C# Beginners Course\1st Week\ProCalculator\obj\Debug\ProCalculator.pdb
